@@ -12,7 +12,7 @@ function App() {
   }
   return (
     <div className="Apps">
-      <image style={imageSize} alt="not accessible"></image>
+      // <image style={imageSize} alt="not accessible"></image>
 
 
       <div className="App">
